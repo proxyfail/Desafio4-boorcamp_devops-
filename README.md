@@ -1,9 +1,3 @@
-Jajajaja, ¡entendido! Me pasé de rosca con la confianza, ¿no? Pido disculpas. La idea es que te sientas cómodo, no que el profe piense que somos compinches de joda. Vamos a bajarle un poco el tono, que suene profesional pero sin tanta solemnidad, ¿te parece?
-
-Aquí tenés el informe de nuevo. Mantiene el lenguaje directo y los scripts, pero con un estilo más neutro, adecuado para presentar un trabajo práctico sin caer en formalismos excesivos ni en la confianza extrema.
-Implementación de Amazon RDS en una VPC para Acceso Público: Guía con Scripts para un DevOps Engineer Jr.
-
-Este documento detalla el proceso de despliegue de una instancia de Amazon RDS (MariaDB) dentro de una Virtual Private Cloud (VPC) en AWS. El objetivo es configurar la base de datos para que sea accesible desde internet, enfocándose en la implementación práctica a través de la AWS CLI y explicando cada componente de la infraestructura.
 1. Preparación del Entorno AWS
 
 Antes de proceder con el despliegue de la infraestructura, es fundamental asegurar una configuración inicial adecuada y segura.
